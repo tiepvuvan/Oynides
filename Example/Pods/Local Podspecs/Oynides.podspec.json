@@ -1,0 +1,22 @@
+{
+  "name": "Oynides",
+  "version": "0.1.0",
+  "summary": "A short description of Oynides.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/Oynides",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Peter Vu": "tiep.vuvan614@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/Oynides.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Oynides/Classes/**/*"
+}

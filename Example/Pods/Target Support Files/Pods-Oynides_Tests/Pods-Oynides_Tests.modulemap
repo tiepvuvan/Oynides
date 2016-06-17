@@ -1,0 +1,6 @@
+framework module Pods_Oynides_Tests {
+  umbrella header "Pods-Oynides_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

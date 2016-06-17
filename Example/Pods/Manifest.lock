@@ -1,0 +1,16 @@
+PODS:
+  - Oynides (0.1.0)
+
+DEPENDENCIES:
+  - Oynides (from `../`)
+
+EXTERNAL SOURCES:
+  Oynides:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Oynides: f23816e84bcc24ca5edbdda069646501a8ce7e03
+
+PODFILE CHECKSUM: b7babe83d94ba5ed48bfe212002956c03fb76a7d
+
+COCOAPODS: 1.0.1
